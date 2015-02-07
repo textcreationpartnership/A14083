@@ -120,9 +120,12 @@
       <front>
          <div type="title_page">
             <pb facs="tcp:19365:1"/>
-            <figure>
-               <head>Aſylum Veneris,</head>
-            </figure>
+            <p>
+               <pb facs="tcp:19365:1"/>
+               <figure>
+                  <head>Aſylum Veneris,</head>
+               </figure>
+            </p>
             <p>OR A SANCTVARY for LADIES.</p>
             <p>Iuſtly <hi>PROTECTING THEM,</hi> their virtues, and ſufficiencies from <hi>the foule aſperſions and forged impu<g ref="char:EOLhyphen"/>tations</hi> of traducing Spirits.</p>
             <p>
